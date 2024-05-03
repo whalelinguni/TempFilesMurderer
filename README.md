@@ -1,6 +1,8 @@
 # Temp Files Murderer
 Unstoppabled temp file killer for windows with some bad ideas mixed in.
 
+![Temp Files Murderer Menu](https://github.com/whalelinguni/TempFilesMurderer/blob/main/TempFilesMurderedMenu.png?raw=true)
+
 ## Description
 Temp Files Murderer is a PowerShell script designed to help clean up temporary files on your system. It provides various modes of operation, including normal mode, a mode to kill all running processes before cleaning, and a danger mode where it runs with elevated privileges. 
 
